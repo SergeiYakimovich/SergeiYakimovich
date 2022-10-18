@@ -24,9 +24,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <ul>
       <li>Java</li>
+      <li>Spring Boot, Spring Security</li>
       <li>JUnit</li>
-      <li>SQL</li>
+      <li>SQL, ORM, Hibernate</li>
       <li>HTML, CSS</li>
-      <li>HTTP</li>
+      <li>HTTP, Postman</li>
       <li>Linux</li>
 </ul>
