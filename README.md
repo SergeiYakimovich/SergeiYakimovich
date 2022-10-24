@@ -13,7 +13,7 @@
 </div>
 
 
-<h3>I'm currently finishing a Java developer course on Hexlet and looking for the new career opportunities as a Java developer.</h3>
+<h3>I'm looking for the new career opportunities as a Java developer.</h3>
 
 - 👨‍💻 My projects are available [here](https://github.com/sergeiyakimovich?tab=repositories)
 
