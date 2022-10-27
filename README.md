@@ -28,6 +28,6 @@
       <li>JUnit</li>
       <li>SQL, ORM, Hibernate</li>
       <li>HTML, CSS</li>
-      <li>HTTP, Postman</li>
-      <li>Linux</li>
+      <li>HTTP, REST API</li>
+      <li>Git, GitHub</li>
 </ul>
