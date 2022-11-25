@@ -17,7 +17,7 @@
 
 - 👨‍💻 My projects are available [here](https://github.com/sergeiyakimovich?tab=repositories)
 
-- 📫 My CV: [https://cv.hexlet.io/resumes/1340](https://cv.hexlet.io/resumes/1340)
+- 📫 My CV: [https://hh.ru/resume/9ec0a9d9ff0b3f8c220039ed1f335037315731](https://hh.ru/resume/9ec0a9d9ff0b3f8c220039ed1f335037315731)
   
 - 🎓 Visit my Hexlet profile: [https://ru.hexlet.io/u/user-3f9897eb47250409](https://ru.hexlet.io/u/user-3f9897eb47250409)  
 
