@@ -28,10 +28,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <ul>
       <li>Java</li>
-      <li>Spring Framework, Spring Security</li>
-      <li>SQL, ORM, Hibernate</li>
-      <li>HTTP, REST API</li>
+      <li>Spring Framework</li>
+      <li>SQL, Postgres, Liquibase</li>
+      <li>HTTP, REST, GraphQL</li>
       <li>HTML, CSS</li>
       <li>JUnit</li>
-      <li>Git, GitHub</li>
+      <li>Git, Docker, Swagger</li>
+      <li>and many other skills...</li>
 </ul>
