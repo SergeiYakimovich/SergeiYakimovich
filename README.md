@@ -27,9 +27,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
-      <li>Java</li>
-      <li>Spring Framework</li>
+      <li>Java, Spring Framework</li>
       <li>SQL, Postgres, Liquibase</li>
+      <li>RabbitMQ, Tibco, Kafka</li>
       <li>HTTP, REST, GraphQL</li>
       <li>HTML, CSS</li>
       <li>JUnit</li>
