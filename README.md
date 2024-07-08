@@ -16,23 +16,15 @@
 <h3>I'm looking for the new career opportunities as a Java developer.</h3>
 
 - 📫 My CV: [https://hh.ru/resume/9ec0a9d9ff0b3f8c220039ed1f335037315731](https://hh.ru/resume/9ec0a9d9ff0b3f8c220039ed1f335037315731)
-  
-- 🎓 Visit my Hexlet profile: [https://ru.hexlet.io/u/user-3f9897eb47250409](https://ru.hexlet.io/u/user-3f9897eb47250409)  
 
 - 👨‍💻 My projects are available [here](https://github.com/sergeiyakimovich?tab=repositories)
     
-    [Task Manager](https://github.com/SergeiYakimovich/java-project-73) Spring project, using JWT, MVC, Hibernate, SQL, Swagger
-    
-    [Pade Analyzer](https://github.com/SergeiYakimovich/java-project-72) Checking sites on SEO, using Javalin, ORM, SQL, HTML, CSS
-
 <h3 align="left">Languages and Tools:</h3>
 <ul>
       <li>Java, Spring Framework</li>
-      <li>SQL, Postgres, Liquibase</li>
+      <li>SQL, Postgres</li>
       <li>RabbitMQ, Tibco, Kafka</li>
       <li>HTTP, REST, GraphQL</li>
       <li>HTML, CSS</li>
-      <li>JUnit</li>
-      <li>Git, Docker, Swagger</li>
-      <li>and many other skills...</li>
+      <li>Git, Docker, Swagger, Liquibase and many other skills...</li>
 </ul>
