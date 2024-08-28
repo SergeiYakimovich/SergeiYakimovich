@@ -17,7 +17,6 @@
 
 - 📫 My CV: [https://hh.ru/resume/9ec0a9d9ff0b3f8c220039ed1f335037315731](https://hh.ru/resume/9ec0a9d9ff0b3f8c220039ed1f335037315731)
 
-- 👨‍💻 My projects are available [here](https://github.com/sergeiyakimovich?tab=repositories)
     
 <h3 align="left">Languages and Tools:</h3>
 <ul>
