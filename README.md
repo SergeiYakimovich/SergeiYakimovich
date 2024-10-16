@@ -15,7 +15,9 @@
 
 <h3>I'm looking for the new career opportunities as a Java developer.</h3>
 
-- 📫 My CV: [https://hh.ru/resume/9ec0a9d9ff0b3f8c220039ed1f335037315731](https://hh.ru/resume/9ec0a9d9ff0b3f8c220039ed1f335037315731)
+- 📫 My CV: 
+[https://hh.ru/resume/9ec0a9d9ff0b3f8c220039ed1f335037315731](https://hh.ru/resume/9ec0a9d9ff0b3f8c220039ed1f335037315731)
+[https://career.habr.com/sergeiyakimovich](https://career.habr.com/sergeiyakimovich)
 
     
 <h3 align="left">Languages and Tools:</h3>
